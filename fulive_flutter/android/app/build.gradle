@@ -30,7 +30,7 @@ android {
     compileSdkVersion 31
 
     defaultConfig {
-        applicationId "com.faceunity.fulivedemo.flutter"
+        applicationId "com.abc.fulivedemo.flutter"
         minSdkVersion 19
         targetSdkVersion 29
         versionCode flutterVersionCode.toInteger()

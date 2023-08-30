@@ -52,3 +52,6 @@ app.*.map.json
 # /ios/Flutter/
 /ios/Runner.xcworkspace/
 /ios/Pods/
+/tmp
+.fvm
+authpack.java
